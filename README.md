@@ -144,7 +144,7 @@ Visit Node.js
  for installation help
 👥 Team
 
-NextUse — EcoBot was developed as part of a 2026 Capstone Project.
+NextUse — EcoBot was developed as part of a 2026 Capstone Project at Women Techsters Fellowship.
  
 Data Science & Engineering
 Bawo Ogharandukun,
