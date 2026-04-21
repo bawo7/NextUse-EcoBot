@@ -1,8 +1,6 @@
 ♻️ NextUse — EcoBot
+EcoBot is an AI-powered recycling assistant built into the NextUse application. Built with Node.js, Groq API, and Meta Llama to make recycling simple for everyone.
 
-EcoBot is an AI-powered recycling assistant built into the NextUse application. It helps users make better environmental decisions by answering everyday waste disposal questions in a simple, conversational way.
-
-Instead of guessing where your waste goes, EcoBot tells you exactly which bin to use, how to prepare items, and why it matters.
 
 🌍 Project Overview
 
@@ -150,7 +148,7 @@ Visit Node.js
 
 NextUse — EcoBot was developed as part of a 2026 Capstone Project at Women Techsters Fellowship.
  
-Data Science & Engineering
+Data Science & Engineering;
 Bawo Ogharandukun,
 Gift Ray,
 Edith Nyako.
