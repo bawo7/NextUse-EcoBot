@@ -145,13 +145,11 @@ Visit Node.js
 👥 Team
 
 NextUse — EcoBot was developed as part of a 2026 Capstone Project.
-
-Role	Name
-Assistant Team Lead 
-Bawo Ogharandukun
+ 
 Data Science & Engineering
-Gift Ray
-Edith Nyako
+Bawo Ogharandukun,
+Gift Ray,
+Edith Nyako.
 
 🤝 Contributions
 
