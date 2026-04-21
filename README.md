@@ -22,21 +22,25 @@ Recycling
 Compost/Organic
 General waste
 Hazardous waste
+
 🧼 Preparation Guidance
 Explains how to properly prepare items before disposal:
 Rinse containers
 Remove labels
 Flatten packaging
+
 📚 Recycling Education
 Teaches users:
 Plastic recycling codes (1–7)
 Recycling symbols
 Contamination and why it matters
+
 🌱 Eco-Friendly Tips
 Recommends practical habits:
 Reduce single-use plastics
 Reuse everyday items
 Choose sustainable alternatives
+
 💡 Why This Project Matters
 
 Climate change is one of the most urgent global challenges today, and waste management plays a direct role in it.
